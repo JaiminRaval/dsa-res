@@ -12,3 +12,6 @@ Some important links:
 
   problem sheet template:
   https://docs.google.com/spreadsheets/d/1yHs5BxepXeuaGF-4Ef-EfeVWvC--THeSBGzxzSN-OI0/edit?usp=sharing
+
+  python resources:
+  https://youtu.be/0K_eZGS5NsU
